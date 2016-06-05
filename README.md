@@ -1,4 +1,4 @@
-# web2py_phonegap_framework7
+# web2py + Phonegap + Framework7
 Aplicação simples utilizando o Phonegap com o Framework7
 
 http://web2py.com/
